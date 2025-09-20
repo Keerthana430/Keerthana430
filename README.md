@@ -13,6 +13,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Keerthana430&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana430&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 🪙 Holopin Badges:
+[![An image of @keerthana430's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keerthana430)](https://holopin.io/@keerthana430)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Keerthana430&icon=0&color=0)](https://visitcount.itsvg.in)
 
